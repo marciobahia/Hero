@@ -18,7 +18,7 @@ Hero is an Application that aims to Connect people who can help financially in N
 ![Let Me Ask preview]
 
 
-<img src="https://github.com/marciobahia/Tindev/blob/master/Frontend/src/assets/Tindev.jpg" >
+<img src="https://github.com/marciobahia/Hero/blob/master/Frontend/src/assets/be-the-hero.png" >
 
 
 ## Tecnologies
