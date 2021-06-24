@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/marciobahia/Tindev/blob/master/Frontend/src/assets/logo.svg" width="300" >
+  <img src="https://github.com/marciobahia/Hero/blob/master/Frontend/src/assets/logo.svg" width="300" >
 </div>
 
 ## AirCnC #
@@ -12,7 +12,7 @@
 [![Stars](https://img.shields.io/github/stars/marciobahia/letmeask?color=835AFD&style=flat-square)](https://github.com/marciobahia/letmeask/stargazers)
 
 <h4 align="left">
-Ecoleta is an Application that aims to Connect people who can help financially in NGOs, where an NGO publishes through its Web interface, what type of problem needs to be solved and how much it will cost and the user through the Mobile application will be able to see the publications and have direct contact with an NGO by email or whatsApp to help.
+Hero is an Application that aims to Connect people who can help financially in NGOs, where an NGO publishes through its Web interface, what type of problem needs to be solved and how much it will cost and the user through the Mobile application will be able to see the publications and have direct contact with an NGO by email or whatsApp to help.
 </h4>
 
 ![Let Me Ask preview]
