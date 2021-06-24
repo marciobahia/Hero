@@ -49,7 +49,7 @@ $ git clone https://github.com/marciobahia/Hero.git && cd hero
 
 ```bash
 **Install the dependencies**
-$ npm install 
+$ npm install <package>@<version> 
 
 
     **Dependencies on Backend**
