@@ -48,15 +48,15 @@ $ git clone https://github.com/marciobahia/Hero.git && cd hero
 **Follow the steps below**
 
 ```bash
-  **Install the dependencies**
+
+    **Install the dependencies**
   
-  $ npm install <package>@<version> 
+    $ npm install <package>@<version> 
 
 
     **Dependencies on Backend**
-
     celebrate": "^12.0.1
-    cors": "^2.8.5",
+    cors": "^2.8.5
     express": "^4.17.1
     jest": "^25.2.3
     knex": "^0.20.13
