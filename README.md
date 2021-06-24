@@ -28,7 +28,7 @@ This project was developed using the following technologies
 - [React Native](https://reactnative.dev)
 - [ReactJs](https://reactjs.org/)
 - [Mongoose](https://mongoosejs.com)
-- [Axios](https://github.com/axios/axios)
+- [SQLite](https://www.sqlite.org/index.html)
 - [NodeJs](https://nodejs.org/en/download/)
 
 
@@ -42,27 +42,27 @@ This project was developed using the following technologies
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/marciobahia/Tindev.git && cd tindev
+$ git clone https://github.com/marciobahia/Hero.git && cd hero
 ```
 
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
-$ yarn
+**Install the dependencies**
+$ npm install 
 
 
     **Dependencies on Backend**
 
-    axios": "^0.19.0
-    cors": "^2.8.5
+    celebrate": "^12.0.1
+    cors": "^2.8.5",
     express": "^4.17.1
-    mongoose": "^5.6.8
-    socket.io": "^2.2.0
-    
+    jest": "^25.2.3
+    knex": "^0.20.13
+    sqlite3": "^4.1.1
+  
     devDependencies
     nodemon": "^2.0.2
-  
     
   
      **Dependencies on Frontend**
